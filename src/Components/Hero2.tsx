@@ -31,6 +31,7 @@ export  default  function Hero2(){
                 </div>
             ))
             }
+            <p></p>
             </div>
         </>
     )
